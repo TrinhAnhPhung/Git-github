@@ -12,4 +12,14 @@ Sau khi chỉnh sửa code trong dự án
 	- git add . ( để lưu tất cả file ) or git add index.html chỉ lưu 1 file 
 	- git reset ( gỡ những file vừa lưu )
 	- git commit -m 'lưu github'  ( chính thức lưu, 'ABC' là ghi chú ) 
-	 
+	- git log or gọn hơn git log --online (xem lại thời điểm đã lưu) 
+	- git check out +  (id git log --oneline) để trở lại thời điểm chưa có đoạn code mới 
+	- git checkout master để trở lại đoạn code được thêm code mới 
+
+	Git branch
+	
+	- git branch main
+
+	Git push https://github.com/TrinhAnhPhung/Git-github.git
+
+	oke rồi đó 
