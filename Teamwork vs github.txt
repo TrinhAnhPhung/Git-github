@@ -1,0 +1,15 @@
+Download Git 
+
+=> terminal : git config user.name  TrinhAnhPhung
+	      git config user.email anhphungtrinh...
+
+
+Sau khi chỉnh sửa code trong dự án 
+
+
+	- git init 
+	- git status ( xem những file đã tạo thêm trong dự án ) 
+	- git add . ( để lưu tất cả file ) or git add index.html chỉ lưu 1 file 
+	- git reset ( gỡ những file vừa lưu )
+	- git commit -m 'lưu github'  ( chính thức lưu, 'ABC' là ghi chú ) 
+	 
